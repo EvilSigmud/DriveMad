@@ -1,0 +1,1 @@
+I am on a mission. That mission, you may ask. And to that I say, I am on a legendary mission to get a bunch of games and turn them into just a singular HTML file. My motivation for doing this is simply because my school blocked acsess to "file:///" URLs and now I have to do a number of different methods to get around this. So, this just saves all of us the inconvenience.
